@@ -7,6 +7,9 @@
 # Ignore notes file (optional; include if not part of the project)
 notes.txt
 
+# Ignore all Excel files
+*.xlsx
+*.xls
+
 # Ignore CSV files
 *.csv
-*.xlsx
