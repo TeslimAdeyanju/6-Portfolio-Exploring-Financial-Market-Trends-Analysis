@@ -13,3 +13,6 @@ notes.txt
 
 # Ignore CSV files
 *.csv
+
+# Ignore all PDF files
+*.pdf

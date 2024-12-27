@@ -14,16 +14,3 @@ To leverage Python and Data Science methodologies to:
 - Optimize portfolio allocation and trading strategies.  
 
 ---
-
-## Challenges Addressed  
-
-1. **Identifying Profitable Investment Opportunities:**  
-   - Understanding market trends.  
-   - Evaluating company performance.  
-   - Predicting future stock prices.  
-
-2. **Managing Risk:**  
-   - Assessing and mitigating investment risks.  
-
-3. **Optimizing Portfolio Allocation:**  
-   - Determining the optimal mix of assets for better returns.  
