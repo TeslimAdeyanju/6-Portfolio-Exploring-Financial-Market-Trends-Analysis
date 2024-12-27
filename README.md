@@ -118,3 +118,4 @@ This project demonstrates:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/TeslimAdeyanju/Stock-Market-Analysis.git
+   
