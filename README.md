@@ -11,6 +11,8 @@ By applying Python and advanced Data Science techniques, the aim is to analyze s
 To leverage Python and Data Science methodologies to:  
 - Analyze stock data for insights.  
 - Evaluate and manage investment performance.  
-- Optimize portfolio allocation and trading strategies.  
+- Optimize portfolio allocation and trading strategies.
+
+- Note
 
 ---
