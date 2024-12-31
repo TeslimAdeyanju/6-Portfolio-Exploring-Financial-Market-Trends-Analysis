@@ -6,9 +6,9 @@ This project analyzes stock data for four major technology companies: Apple (AAP
 
 ## Objective  
 
-The project aims to:
-Analyze stock data for valuable insights.
-Evaluate and track investment performance.
-Optimize portfolio allocation and trading strategies.
+The project aims to:   
+Analyze stock data for valuable insights.   
+Evaluate and track investment performance.   
+Optimize portfolio allocation and trading strategies.   
 
 ---
