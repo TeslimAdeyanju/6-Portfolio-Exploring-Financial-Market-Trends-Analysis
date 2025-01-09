@@ -16,3 +16,6 @@ notes.txt
 
 # Ignore all PDF files
 *.pdf
+
+# ignore .png files
+*.png
