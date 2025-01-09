@@ -1,0 +1,21 @@
+# Ignore environment variables file
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore notes file (optional; include if not part of the project)
+notes.txt
+
+# Ignore all Excel files
+*.xlsx
+*.xls
+
+# Ignore CSV files
+*.csv
+
+# Ignore all PDF files
+*.pdf
+
+# ignore .png files
+*.png
